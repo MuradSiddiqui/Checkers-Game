@@ -38,7 +38,7 @@ Once the setup is complete, you can start the game by running:
 python main.py
 
 
-**#How to Play**
+## How to Play
 **Starting the Game:** Launch the game and choose to start a new game.
 **Select level of difficulty:** (1 Easy, 2 Hard)
 **Making Moves**: Click on a piece to select it, then click on the destination square to move.
@@ -50,5 +50,4 @@ python main.py
 
 **THANK YOU**
 
-**GUI:**
-![image](https://github.com/MuradSiddiqui/Checkers-Game/assets/109691430/33760322-49ad-452b-a5df-b8d49b4c5523)
+
